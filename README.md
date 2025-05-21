@@ -1,6 +1,6 @@
 # TikTok-Account-Creator
 Free TikTok Accounts Generator
-- Free :
+- Free : 
   - Posted
 - Paid :
   - No ShadowBan
