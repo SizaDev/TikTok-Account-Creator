@@ -7,7 +7,7 @@
   - Device Registration
   - No ShadowBan
   - Support Proxies
-  - 100% Requests No Selenium
+  - 100% Requests No Selenium 
   - Android/iOS APIs
   - Full Updated Algorithms 
 - Contact : https://t.me/SozaGod
